@@ -11,7 +11,8 @@ This book can be used as a middle-ground between the highly-technical academic p
 
 This book uses mdBook, a static-site-generator that converts markdown to html+css.
 
-Follow [mdBook's installation guide](https://rust-lang.github.io/mdBook/guide/installation) to serves the book locally.
+- Follow [mdBook's installation guide](https://rust-lang.github.io/mdBook/guide/installation) to install mdBook.
+- [Serve the book](https://rust-lang.github.io/mdBook/cli/serve) locally to see your edits in real-time.
 
 ### Benefits of mdBook
 
