@@ -1,0 +1,6 @@
+[book]
+authors = ["Husky Satellite Lab"]
+language = "en"
+multilingual = false
+src = "src"
+title = "HuskySat-2 - The Book"
